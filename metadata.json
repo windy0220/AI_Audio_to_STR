@@ -1,0 +1,5 @@
+{
+  "name": "音频转字幕str",
+  "description": "Professional AI-powered subtitle generator optimized for Adobe Premiere Pro. Transcribes audio/video to Simplified Chinese SRT with strict formatting rules.",
+  "requestFramePermissions": []
+}
